@@ -161,8 +161,8 @@
 // ------|    Spc    |    Nav    |     |    Sym    |    Ent    |------
 //       -------------------------     -------------------------
             bindings = <
-                &kp Q       &kp W       &kp F       &kp P       &kp G                   &kp J       &kp L       &kp U       &kp Y       &kp QUOT
-                &hm LSHFT A &hm LGUI R  &hm LALT S  &hm LCTRL T &kp D                   &kp H       &hm RCTRL N &hm RALT E  &hm RGUI I  &hm RSHFT O
+                &kp W       &kp W       &kp F       &kp P       &kp G                   &kp J       &kp L       &kp U       &kp Y       &kp QUOT
+                &hm LSHFT R &hm LGUI R  &hm LALT S  &hm LCTRL T &kp D                   &kp H       &hm RCTRL N &hm RALT E  &hm RGUI I  &hm RSHFT O
                 &kp Z       &kp X       &kp C       &kp V       &kp B                   &kp K       &kp M       &kp COMMA   &kp DOT     &kp SEMI
                                           &lt NUM_L SPACE  &mo NAV_L                  &mo SYM_L   &kp RET 
             >;
